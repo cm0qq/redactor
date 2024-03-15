@@ -1,0 +1,13 @@
+D:\c#\redtext\redtext\bin\Debug\redtext.exe.config
+D:\c#\redtext\redtext\bin\Debug\redtext.exe
+D:\c#\redtext\redtext\bin\Debug\redtext.pdb
+D:\c#\redtext\redtext\obj\Debug\redtext.csproj.AssemblyReference.cache
+D:\c#\redtext\redtext\obj\Debug\redtext.Form1.resources
+D:\c#\redtext\redtext\obj\Debug\redtext.Properties.Resources.resources
+D:\c#\redtext\redtext\obj\Debug\redtext.csproj.GenerateResource.cache
+D:\c#\redtext\redtext\obj\Debug\redtext.csproj.CoreCompileInputs.cache
+D:\c#\redtext\redtext\obj\Debug\redtext.exe
+D:\c#\redtext\redtext\obj\Debug\redtext.pdb
+D:\c#\redtext\redtext\bin\Debug\FastColoredTextBox.dll
+D:\c#\redtext\redtext\bin\Debug\FastColoredTextBox.xml
+D:\c#\redtext\redtext\obj\Debug\redtext.csproj.CopyComplete
